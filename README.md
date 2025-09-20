@@ -1,6 +1,6 @@
 Please consider the below factors while contributing
 
-Code Style:
+Code Style:\n
 Maintain a consistent code style for readability.
 
 Documentation:
